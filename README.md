@@ -8,9 +8,14 @@ You can take short quick notes anytime and discard it eventually.
 ## Getting Started
 
 ### Dependencies
-
 The Vanilla JavaScript project has zero dependencies.
 
+### Installing
+--> Clone the repository using the command below :
+```bash
+git clone https://github.com/kevinjosephh/SmartNotes.git
+
+```
 ## Authors
 
 Kevin Joseph
